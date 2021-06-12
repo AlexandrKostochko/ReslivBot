@@ -1,0 +1,7 @@
+bot.name=ReslivTest_Bot
+bot.token=1806404478:AAF1EBMkjc4ucAggjSNsrNJN26r6Jl3-04A
+dataBase-PostgreSql
+DriverClassName("org.postgresql.Driver")
+Url("jdbc:postgresql://localhost:5432/BotBase")
+Username("postgres")
+Password("2751")

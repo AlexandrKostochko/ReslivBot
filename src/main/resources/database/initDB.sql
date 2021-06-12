@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS keyresponse
+(
+    id   INTEGER  PRIMARY KEY ,
+    key  VARCHAR(255) NOT NULL ,
+    response VARCHAR(255) NOT NULL
+    );
+CREATE SEQUENCE keyresponse_keys START WITH 9 INCREMENT BY 1;
